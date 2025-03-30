@@ -1,6 +1,2 @@
-search=01 00 a0 e3 1c 00 85 e5 00 70 94 e5 c0 50 96 e5
-replace=0f 00 a0 e3 1c 00 85 e5 00 70 94 e5 c0 50 96 e5
-search1=00 00 57 e3 5d 00 00 0a dc 11 9f e5 28 01 87 e5
-replace1=00 00 57 e3 5d 00 00 0a dc 11 9f e5 24 01 87 e5
-search2=9f 7e d7 eb 1c 51 87 e5 00 70 94 e5 cc 50 96 e5
-replace2=9f 7e d7 eb 3c 51 87 05 00 70 94 e5 cc 50 96 e5
+search=F0 4F 2D E9 1C B0 8D E2 14 D0 4D E2 00 40 A0 E1 7C 02 9F E5 01 90 A0 E1 
+replace=00 00 A0 E3 1E FF 2F E1
